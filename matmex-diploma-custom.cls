@@ -68,6 +68,7 @@
 
 %% Включение графических файлов
 %% we don't need to load graphicx since it will be loaded by xunicode (which is loaded by fontspec) 
+\usepackage{graphicx}
 \usepackage[titletoc]{appendix}
 
 %% Эта команда добавляет отчеркнутое место для подписи после имени

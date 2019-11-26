@@ -1,0 +1,11 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "diploma.xdv" "diploma.pdf" "diploma" 0
+  "diploma.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "diploma.pdf"
+["xelatex"] 0 "/home/vkutuev/Documents/Final_qualification_paper/diploma.tex" "diploma.xdv" "diploma" 0
+  "/home/vkutuev/Documents/Final_qualification_paper/diploma.tex" 0 -1 0 ""
+  "diploma.aux" 1574726587 8 a94a2480d3289e625eea47cd1b285758 ""
+  (generated)
+  "diploma.log"
+  "diploma.xdv"

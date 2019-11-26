@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section*.2}{Введение}{}% 1
+\BOOKMARK [1][-]{section.1}{Focus\040stacking\(focal\040stacking\)}{}% 2
+\BOOKMARK [1][-]{section.2}{Операторы фокусной меры\(Objective functions\)}{}% 3
+\BOOKMARK [1][-]{section.3}{Повышение качества обрабатываемых изображений}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Удаление пыли}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Деконволюция}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Сравнение результатов работы алгоритмов}{}% 7
+\BOOKMARK [1][-]{section.5}{Реализация}{}% 8
