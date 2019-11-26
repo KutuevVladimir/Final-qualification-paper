@@ -59,10 +59,10 @@
 %% Теперь у нас будут переносы слов
 \usepackage{polyglossia}
 \setdefaultlanguage{russian}
-
+% \usepackage{indentfirst}
+\PolyglossiaSetup{russian}{indentfirst=true}
 
 %% Отступ в первом абзаце
-\usepackage{indentfirst}
 %% Гиперссылки
 \usepackage[colorlinks=true,urlcolor=black,linkcolor=black,filecolor=black,citecolor=black]{hyperref}
 
@@ -312,4 +312,3 @@
 
 \let\savenumberline\numberline
 \def\numberline#1{\savenumberline{#1.}}
-\usepackage{hyperref}
