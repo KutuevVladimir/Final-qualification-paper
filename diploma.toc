@@ -1,9 +1,0 @@
-\selectlanguage *{russian}
-\contentsline {section}{Введение}{3}{section*.2}% 
-\contentsline {section}{\numberline {1}Focus stacking(focal stacking)}{4}{section.1}% 
-\contentsline {section}{\numberline {2}Операторы фокусной меры(Objective functions)}{5}{section.2}% 
-\contentsline {section}{\numberline {3}Повышение качества обрабатываемых изображений}{7}{section.3}% 
-\contentsline {subsection}{\numberline {3.1}Удаление пыли}{7}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}Деконволюция}{8}{subsection.3.2}% 
-\contentsline {section}{\numberline {4}Сравнение результатов работы алгоритмов}{10}{section.4}% 
-\contentsline {section}{\numberline {5}Реализация}{11}{section.5}% 
