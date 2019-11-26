@@ -101,6 +101,8 @@
 \define@key[ru]{mytitle}{chairHeadPosition}{\def\my@title@chairHeadPosition@ru{#1}}
 \define@key[ru]{mytitle}{year}{\def\my@title@year@ru{#1}}
 \define@key[ru]{mytitle}{city}{\def\my@title@city@ru{#1}}
+\define@key[ru]{mytitle}{consult}{\def\my@title@consult@ru{#1}}
+\define@key[ru]{mytitle}{consultPosition}{\def\my@title@consultPosition@ru{#1}}
 \define@choicekey*[ru]{mytitle}{type}{diploma,coursework,master,bachelor}{\def\my@title@type@ru{#1}}
 
 %% Англоязычный вариант
@@ -119,6 +121,8 @@
 \define@key[en]{mytitle}{chairHeadPosition}{\def\my@title@chairHeadPosition@en{#1}}
 \define@key[en]{mytitle}{year}{\def\my@title@year@en{#1}}
 \define@key[en]{mytitle}{city}{\def\my@title@city@en{#1}}
+% \define@key[ru]{mytitle}{consult}{\def\my@title@consult@en{#1}}
+% \define@key[ru]{mytitle}{consultPosition}{\def\my@title@consultPosition@en{#1}}
 \define@choicekey*[en]{mytitle}{type}{diploma,coursework,master,bachelor}{\def\my@title@type@en{#1}}
 
 \newcommand\filltitle[2]{
@@ -197,8 +201,10 @@
     \vskip 5em
     Научный руководитель:\\
     \my@title@supervisorPosition@ru\ \my@title@supervisor@ru\sigspace
-    Рецензент:\\
-    \my@title@reviewerPosition@ru\ \my@title@reviewer@ru
+    Консультант:\\
+    \my@title@consultPosition@ru\ \my@title@consult@ru
+    % Рецензент:\\
+    % \my@title@reviewerPosition@ru\ \my@title@reviewer@ru
     }
 \end{center}
 \end{titlepage}
