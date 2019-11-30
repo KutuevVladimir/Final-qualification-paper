@@ -70,6 +70,7 @@
 %% we don't need to load graphicx since it will be loaded by xunicode (which is loaded by fontspec) 
 \usepackage{graphicx}
 \usepackage[titletoc]{appendix}
+\usepackage{subcaption}
 
 %% Эта команда добавляет отчеркнутое место для подписи после имени
 %% Аргументы: имя и пояснение под чертой (например, слово "подпись")
